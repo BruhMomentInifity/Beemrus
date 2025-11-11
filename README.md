@@ -6,6 +6,7 @@ Written in Python, it is a lightweight, feature-rich drum machine that you can i
 
 !!!!!!!DEPENDENCIES!!!!!!!
 * Yazi
+
 !!!!!!!PYTHON DEPENDENCIES!!!!!!!
 * sounddevice
 * soundfile
