@@ -1,0 +1,49 @@
+# ----------------------------
+# Python cache files
+# ----------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ----------------------------
+# Virtual environment
+# ----------------------------
+.venv/
+env/
+venv/
+
+# ----------------------------
+# Temporary / swap files
+# ----------------------------
+*.tmp
+*.swp
+*.log
+
+# ----------------------------
+# Yazi temporary chooser files
+# ----------------------------
+*.chooser
+
+# ----------------------------
+# Editor/IDE settings
+# ----------------------------
+.vscode/
+*.code-workspace
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ----------------------------
+# OS-specific files
+# ----------------------------
+.DS_Store
+Thumbs.db
+
+# ----------------------------
+# Optional: compiled binaries / packages
+# ----------------------------
+*.egg-info/
+dist/
+build/
+
